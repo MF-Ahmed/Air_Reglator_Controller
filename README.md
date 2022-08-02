@@ -25,9 +25,10 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-### Screenshot
+### Screenshots
 
-![](https://github.com/MF-Ahmed/Air_Reglator_Controller/blob/main/Screenshots/Screenshot_1.0.bmp)
+![](https://github.com/MF-Ahmed/Air_Reglator_Controller/blob/main/Screenshots/Screenshot_2.png)
+![](https://github.com/MF-Ahmed/Air_Reglator_Controller/blob/main/Screenshots/Screenshot_3.png)
 
 
 ## Help
