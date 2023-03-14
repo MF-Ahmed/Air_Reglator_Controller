@@ -52,16 +52,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Muhammad Farhan Ahmed
+[@Muhammad Farhan Ahmed]
 
-
-[]: # (This is a comment)
-[]: # "And this is a comment"
-[]: # 'Also this is a comment'
-[//]: # (Yet another comment)
-[comment]: # (Still another comment)
-
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
