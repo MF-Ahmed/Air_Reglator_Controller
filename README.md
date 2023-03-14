@@ -54,8 +54,12 @@ Contributors names and contact info
 
 Muhammad Farhan Ahmed
 
- <! -- your comment -->
 
+[]: # (This is a comment)
+[]: # "And this is a comment"
+[]: # 'Also this is a comment'
+[//]: # (Yet another comment)
+[comment]: # (Still another comment)
 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
