@@ -52,8 +52,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-[@Muhammad Farhan Ahmed]
+Muhammad Farhan Ahmed
 
+ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
