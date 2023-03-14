@@ -54,12 +54,7 @@ Contributors names and contact info
 
 Muhammad Farhan Ahmed
 
-
-    /*:
-      1. Brazil
-      2. Vietnam
-      3. Colombia
-     */
+ <! -- your comment -->
 
 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
