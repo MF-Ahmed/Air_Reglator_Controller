@@ -52,7 +52,16 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
+Muhammad Farhan Ahmed
+
+
+    /*:
+      1. Brazil
+      2. Vietnam
+      3. Colombia
+     */
+
+
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
